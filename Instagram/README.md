@@ -10,7 +10,7 @@ This will test:
 - CSS
 - JavaScript (for dynamic features)
 
-##You will build:
+##You will build
 
 #### A User Login page
 
@@ -48,7 +48,7 @@ For this challenge, you will need to perform DOM Manipulation. The following lin
 - <http://www.w3schools.com/js/js_htmldom.asp>
 - <http://callmenick.com/post/basics-javascript-dom-manipulation>
 
-## Some gotchas to look out for
+## Some Gotchas To Look Out For
 
 - Beware CORS
   - <http://www.html5rocks.com/en/tutorials/cors/>

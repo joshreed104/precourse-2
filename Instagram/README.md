@@ -40,6 +40,14 @@ This will test:
 
 We will only be modifying the "client" folder. There are two files already set up for you inside the "client" folder: "index.html" and "feed.html". Your work for the login page should be done in "index.html" and work for the feed page should be done in "feed.html". You may write your CSS and Javascript codes inside the html files or you may create separate files and link them to the html files. You can also create and add more files if you need to. DO NOT modify any other files or folders. You can take a look at the original instagram page for structural information.
 
+## DOM
+
+For this challenge, you will need to perform DOM Manipulation. The following links will provide you with a better idea about the document object model.
+
+#### Read
+- <http://www.w3schools.com/js/js_htmldom.asp>
+- <http://callmenick.com/post/basics-javascript-dom-manipulation>
+
 ## Some gotchas to look out for
 
 - Beware CORS

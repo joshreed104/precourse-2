@@ -10,9 +10,9 @@ This will test:
 - CSS
 - JavaScript (for dynamic features)
 
-##You will build
+##You will build:
 
-### A simple User Login page
+#### A simple User Login page
 
 ![](https://www.dropbox.com/s/792mx2tz0k5sset/Screenshot%202015-05-26%2019.18.54_shrink.png?dl=1)
 
@@ -24,7 +24,7 @@ This will test:
 - send the user to the user's feed once they've entered a correct username and password
 - use CSS and HTML to achieve a consistent Instagram style
 
-### The User Feed page
+#### The User Feed page
 
 ![](https://www.dropbox.com/s/gs2fn45pjl6z0v0/instagram-feed_shrink.png?dl=1)
 

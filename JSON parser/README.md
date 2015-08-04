@@ -2,40 +2,15 @@
 
 ## Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
 
+## About JSON
+
+JSON, or JavaScript Object Notation, is a minimal, readable format for structuring data. It provides a method for easy communication between client side and server side. A lot of times the format in which the data is stored in the server side is different from what is readable by the client side. JSON Parser is used to transform the data from the readable JSON format (or JSON string) into a structure Javascript object. Your task is to create this parser that will take a string in JSON format and return a Javascript object in the appropriate key/value format.
+
 ##### Read
-- <http://www.w3schools.com/js/js_variables.asp>
+- <http://www.w3schools.com/js/js_json.asp>
+- <http://www.json.org/js.html>
 
 ##### Extension
 
-- Javascript quirk - unknown variable names create global variables
-<http://www.2ality.com/2013/04/quirk-automatic-globals.html>
-
-## Data Types
-
-##### Read
-- [Datatypes](http://www.w3schools.com/js/js_datatypes.asp)
-- [Arrays](http://www.w3schools.com/js/js_arrays.asp)
-- [Objects](http://www.w3schools.com/js/js_objects.asp)
-- [Object Definitions](http://www.w3schools.com/js/js_object_definition.asp)
-
-## Operators
-
-##### Read
-- [Operators](http://www.w3schools.com/js/js_operators.asp)
-- [Arithmetic](http://www.w3schools.com/js/js_arithmetic.asp)
-- [Assignment](http://www.w3schools.com/js/js_assignment.asp)
-
-## Functions
-
-##### Read
-- [Functions](http://www.w3schools.com/js/js_functions.asp)
-- [Function Defintion](http://www.w3schools.com/js/js_function_definition.asp)
-- [Parameters](http://www.w3schools.com/js/js_function_parameters.asp)
-- [Invocation](http://www.w3schools.com/js/js_function_invocation.asp)
-
-## Conditionals (if/else)
-
-##### Read
-- [Comparisons](http://www.w3schools.com/js/js_comparisons.asp)
-- [If/Else](http://www.w3schools.com/js/js_if_else.asp)
-- [Switch](http://www.w3schools.com/js/js_switch.asp)
+- Tutorial on json for absolute beginners
+<http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/>

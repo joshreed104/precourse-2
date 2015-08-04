@@ -6,12 +6,9 @@ You are going to bulid Instagram in 3 days
 
 This will test:
 
-- jQuery (for dynamic features)
-- Ajax requests (using jQuery)
-- CSS
 - HTML
-- Node (including HTTP module)
-- Deployment with Heroku
+- CSS
+- JavaScript (for dynamic features)
 
 You will build
 
@@ -38,17 +35,6 @@ The User Feed Page should:
 - should have the ability to like a picture by double clicking on it
 - should have the ability to comment on a picture
 - use CSS and HTML to achieve a consistent Instagram style
-
-How to make a get request
-
-````
-https://codesmith-precourse.firebaseio.com/instagram/-JqL35o8u6t3dTQaFXSV.json
-````
-
-## Deployment
-
-- Serve up your pages with a simple Node server
-- Deploy using Heroku <https://devcenter.heroku.com/articles/getting-started-with-nodejs>
 
 ## Some gotchas to look out for
 

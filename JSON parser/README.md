@@ -2,8 +2,6 @@
 
 ## Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
 
-## JSON
-
 ##### Read
 - <http://www.w3schools.com/js/js_variables.asp>
 

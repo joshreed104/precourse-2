@@ -12,11 +12,11 @@ This will test:
 
 ##You will build:
 
-#### A simple User Login page
+#### A User Login page
 
 ![](https://www.dropbox.com/s/792mx2tz0k5sset/Screenshot%202015-05-26%2019.18.54_shrink.png?dl=1)
 
-##### The User Login Page should:
+###### The User Login Page should:
 
 - let a user login
 - not include server-side authentication
@@ -24,11 +24,11 @@ This will test:
 - send the user to the user's feed once they've entered a correct username and password
 - use CSS and HTML to achieve a consistent Instagram style
 
-#### The User Feed page
+#### A User Feed page
 
 ![](https://www.dropbox.com/s/gs2fn45pjl6z0v0/instagram-feed_shrink.png?dl=1)
 
-##### The User Feed Page should:
+###### The User Feed Page should:
 
 - display all the users pictures from their feed (to access these pictures you'll need to make a GET request)
 - should have a header with your user information (profile picture and name)

@@ -1,18 +1,8 @@
-# Beginner Level Skill Builder!
+# JSON Parser Challenge!
 
 ## Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
 
-### Read this file for guidance on these topics if needed
-
-##### Topics Covered
-
-- A review of pre-application basics
-- Variables and Data Types
-- Operators
-- Functions
-- Control flow (conditions - if/else)
-
-## Variables
+## JSON
 
 ##### Read
 - <http://www.w3schools.com/js/js_variables.asp>

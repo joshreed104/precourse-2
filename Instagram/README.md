@@ -2,24 +2,21 @@
 
 Today you're going to be building Instagram, one of the top 5 most popular apps in the world. Instagram reached 100m users in 1 year with just 13 engineers and now presents billions of pictures a day
 
-You are going to bulid Instagram in 3 days
+You are going to bulid Instagram in 3 days (recommended)
 
 This will test:
 
-- jQuery (for dynamic features)
-- Ajax requests (using jQuery)
-- CSS
 - HTML
-- Node (including HTTP module)
-- Deployment with Heroku
+- CSS
+- JavaScript (for dynamic features)
 
-You will build
+##You will build:
 
-## A simple User Login page
+#### A User Login page
 
 ![](https://www.dropbox.com/s/792mx2tz0k5sset/Screenshot%202015-05-26%2019.18.54_shrink.png?dl=1)
 
-The User Login Page should:
+###### The User Login Page should:
 
 - let a user login
 - not include server-side authentication
@@ -27,11 +24,11 @@ The User Login Page should:
 - send the user to the user's feed once they've entered a correct username and password
 - use CSS and HTML to achieve a consistent Instagram style
 
-## The User Feed page
+#### A User Feed page
 
 ![](https://www.dropbox.com/s/gs2fn45pjl6z0v0/instagram-feed_shrink.png?dl=1)
 
-The User Feed Page should:
+###### The User Feed Page should:
 
 - display all the users pictures from their feed (to access these pictures you'll need to make a GET request)
 - should have a header with your user information (profile picture and name)
@@ -39,16 +36,9 @@ The User Feed Page should:
 - should have the ability to comment on a picture
 - use CSS and HTML to achieve a consistent Instagram style
 
-How to make a get request
+#### Do's And Don'ts
 
-````
-https://codesmith-precourse.firebaseio.com/instagram/-JqL35o8u6t3dTQaFXSV.json
-````
-
-## Deployment
-
-- Serve up your pages with a simple Node server
-- Deploy using Heroku <https://devcenter.heroku.com/articles/getting-started-with-nodejs>
+We will only be modifying the "client" folder. There are two files already set up for you inside the "client" folder: "index.html" and "feed.html". Your work for the login page should be done in "index.html" and work for the feed page should be done in "feed.html". You may write your CSS and Javascript codes inside the html files or you may create separate files and link them to the html files. You can also create and add more files if you need to. DO NOT modify any other files or folders. You can take a look at the original instagram page for structural information.
 
 ## Some gotchas to look out for
 

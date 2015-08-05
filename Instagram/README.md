@@ -18,8 +18,7 @@ This will test:
 
 ###### The User Login Page should:
 
-- let a user login
-- not include server-side authentication
+- let a user login (not include server-side authentication)
 - use javascript to check that the user's username and password *matches* some pre-approved usernames and passwords
 - send the user to the user's feed once they've entered a correct username and password
 - use CSS and HTML to achieve a consistent Instagram style

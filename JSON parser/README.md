@@ -12,5 +12,4 @@ JSON, or JavaScript Object Notation, is a minimal, readable format for structuri
 
 ##### Extension
 
-- Tutorial on JSON:
-<http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/>
+- Tutorial on JSON: <http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/>

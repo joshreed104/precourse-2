@@ -38,7 +38,7 @@ This will test:
 
 #### Do's And Don'ts
 
-We will only be modifying the "client" folder. There are two files already set up for you inside the "client" folder: "index.html" and "feed.html". Your work for the login page should be done in "index.html" and work for the feed page should be done in "feed.html". You may write your CSS and Javascript codes inside the html files or you may create separate files and link them to the html files. You can also create and add more files if you need to. DO NOT modify any other files or folders. You can take a look at the original instagram page for structural information.
+We will only be modifying the "client" folder. There are four files already set up for you inside the "client" folder: "index.html", "feed.html", "index.js", and "feed.js". Your work for the login page should be done in "index.html" and "index.js", while your work for the feed page should be done in "feed.html" and "feed.js". You should write all your Javascript codes inside the ".js" files. You may do your CSS stylings inside the html files or you may create separate CSS files and link them to the HTML files. You can also create and add more files if you need to. DO NOT modify any other files or folders. You can take a look at the original instagram page for structural information.
 
 ## DOM
 

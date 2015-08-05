@@ -30,6 +30,7 @@ This will test:
 ###### The User Feed Page should:
 
 - display all the users pictures from their feed (to access these pictures you'll need to make a GET request)
+  hello
 - should have a header with your user information (profile picture and name)
 - should have the ability to like a picture by double clicking on it
 - should have the ability to comment on a picture

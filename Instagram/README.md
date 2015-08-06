@@ -1,6 +1,6 @@
 #Instagram Clone Challenge!
 
-Today you're going to be building Instagram, one of the top 5 most popular apps in the world. Instagram reached 100m users in 1 year with just 13 engineers and now presents billions of pictures a day
+Today you're going to be building a clone of Instagram, one of the top 5 most popular apps in the world. Instagram reached 100m users in 1 year with just 13 engineers and now presents billions of pictures a day
 
 You are going to bulid Instagram in 3 days (recommended)
 

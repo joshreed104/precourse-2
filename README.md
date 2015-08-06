@@ -20,4 +20,4 @@ We divided part 2 of the precourse challenges into two sections: instagram and j
 
 ## What do I do when I am done?
 
-Please read the portion labelled *"What do I do when I am done with a unit?"* in the following link: [Pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).
+Please read the portion labelled **"What do I do when I am done with a unit?"** in the following link: [Pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).

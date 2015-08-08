@@ -9,9 +9,14 @@ This will test:
 - HTML
 - CSS
 
-##You will build
+##You Will Build
 
 Create the exact replica of the Google Home Page so that if we cannot tell the difference between the original and the copy when we look at it. Remember, you are NOT being asked to implement the functionality of the Google Home Page but only the interface (using HTML and CSS).  
+
+
+##Do's and Don'ts
+
+We have an "index.html" file and a "style.css" file, which you will be working on. Do all your HTML works in "index.html" and all your stylings (CSS works) in "style.css". DO NOT add any more files or use any javascript for this challenge. Good Luck!
 
 #### Read
 - <http://www.w3schools.com/html/>

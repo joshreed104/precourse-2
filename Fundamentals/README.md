@@ -1,28 +1,13 @@
-#JS-Fundamentals
+# Beginner Level Skill Builder!
 
-##Summary
-JS-Fundamentals is a series of functions that perform common object-related tasks
+## Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
 
-##How do I get started?
-1. Fork this repo
-  - click on fork button on the top right of the page ![Alt text](http://u.cubeupload.com/azai91/howtofork.png)
-  - click on your handle to fork to your repo
+You will only modify the codes inside the "main.js" file located in the source ("src") folder. **MAKE SURE TO READ ALL COMMENTS** inside the "main.js" file; these will be your instructions for solving each problem. DO NOT CHANGE anything in any other files or folders. You may take a look at the test folder to inquire how we are testing the correctness of the challenges. After you are done with each challenge open the index file (index.html) on the browser (Chrome or Firefox) to display the test results. For incorrect result, a red "x mark" will display beside thine test that did not pass and for correct result, a green "check mark" will display bside the test that passed. We encourage you to look at the displayed error message; it will help you figure out what you might need to fix.
 
-2. Clone the repo
-  - copy and paste github url from the right side of the ![Alt text](http://u.cubeupload.com/azai91/howtoclone.png)
-  - type in the following line into your command line and insert your copies url as shown below:
-  ````
-  git clone *github url
-  ````
+Hopefully you have already read through the skill builders and is equipped with the proper skills to tackle these extensive javascript challenges. But if you still need to brush up your skills, checkout the skill builders again.
 
-3. Complete the challenge in located in src/js-fundamentals.js. Feel free complete the functions in any order.
+#### Checkout The Skill Builders:
 
-##How do I test if my answer is correct?
-* An incredibly useful tool is Chrome Dev Tool's Javascript Console (which can be opened in Chrome by pressing command+option+J). The console allows for developers to type javascript directly into the browser. Test it out by typing in the following to the console:
-````
-var a = 'lorem';
-console.log(a);
-````
-
-* To test your functions, open index.html in your browser
-** NOTE: While completing the challenges, if all tests that previously passed ALL suddenly fail, there is most likely a syntax error in your code. Open Chrome Dev Tool's to locate the cause of the error.
+- [Beginner Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%201%20(Beginner)/README.md)
+- [Intermediate Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%202%20(Intermediate)/README.md)
+- [Advanced Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%203%20(Advanced)/README.md)

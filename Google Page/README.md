@@ -16,7 +16,7 @@ Create the exact replica of the Google Home Page so that if we cannot tell the d
 
 ##Do's and Don'ts
 
-We have an "index.html" file and a "style.css" file, which you will be working on. Do all your HTML works in "index.html" and all your stylings (CSS works) in "style.css". DO NOT add any more files or use any javascript for this challenge. Good Luck!
+We have an "index.html" file and a "style.css" file, which you will be working on. Do all your HTML works in "index.html" and all your stylings (CSS works) in "style.css". DO NOT add any more files or use any javascript codes for this challenge. Good Luck!
 
 #### Read
 - <http://www.w3schools.com/html/>

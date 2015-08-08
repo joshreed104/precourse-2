@@ -1,23 +1,28 @@
-# WELCOME TO THE PRECOURSE!!!
+#JS-Fundamentals
 
-## Please Read Everything Before Proceeding...
+##Summary
+JS-Fundamentals is a series of functions that perform common object-related tasks
 
-Welcome To Codesmith Precourse.
+##How do I get started?
+1. Fork this repo
+  - click on fork button on the top right of the page ![Alt text](http://u.cubeupload.com/azai91/howtofork.png)
+  - click on your handle to fork to your repo
 
-The precourse is designed to help you become experienced in the fundamental javascript concepts. Much of the challenges may be familiar, especially in the first portion but please be patient since a big end project awaits where you will utilize all your javascript skills to build come interesting projects. Part 1 of the precourse is designed to solidify your basics in javascript. In part 2 of the precourse, you will be doing more javascript challenges while building an "Instagram" clone and a copy of the "Google" page. Part 3 of the precourse is equipped with a JSON parser and exposure to javascript frameworks. We aspire you to be proficient in your javascript skills and become a better programmer through the process.
+2. Clone the repo
+  - copy and paste github url from the right side of the ![Alt text](http://u.cubeupload.com/azai91/howtoclone.png)
+  - type in the following line into your command line and insert your copies url as shown below:
+  ````
+  git clone *github url
+  ````
 
-This precourse will truly help you understand the core material and get you ready for our fulltime program. Plus, it is a great opportunity for you to show us that you can handle our rigorous curriculum.
+3. Complete the challenge in located in src/js-fundamentals.js. Feel free complete the functions in any order.
 
-If this is challenging, don't be worrried! Getting used to the challenge will be a great asset to you in our program.
+##How do I test if my answer is correct?
+* An incredibly useful tool is Chrome Dev Tool's Javascript Console (which can be opened in Chrome by pressing command+option+J). The console allows for developers to type javascript directly into the browser. Test it out by typing in the following to the console:
+````
+var a = 'lorem';
+console.log(a);
+````
 
-## You Need To Know How To Use GitHub!
-
-By now, you should already know how to use GitHub. If not, make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY TO LEARN HOW!**
-
-## Instructions For The Precourse Challenges:
-
-We divided part 2 of the precourse challenges into three sections: google page, fundamentals, and instagram clone. There are three separate folders for each of the challenges. During the google page challenge, you will be creating a copy of the "Google" home page using only HTML and CSS. In the fundamentals challenge, you will be working on solidifying your javascript skills even further. For the instagram clone challengee, you will be creating a basic interface of instagram using HTML/CSS and some Javascript; basically you will be making a clone of instagram. Please read the "README.md" files inside the folders for further instructions about each challenge. Be creative with your project and show us that you want to have fun with programming. Good Luck!
-
-## What do I do when I am done?
-
-Please read the portion labelled **"What do I do when I am done with a unit?"** in the following link: [pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).
+* To test your functions, open index.html in your browser
+** NOTE: While completing the challenges, if all tests that previously passed ALL suddenly fail, there is most likely a syntax error in your code. Open Chrome Dev Tool's to locate the cause of the error.

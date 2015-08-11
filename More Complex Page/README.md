@@ -4,6 +4,6 @@ It's time to build a more complex layout! You'll be building [this website](http
 
 ##Bonus work
 
-If you find front-end design particularly interesting, then you should learn bootstrap, a responsive-design CSS framework. It's documentation can be found on the website you just emulated. However, you may find a tutorial more helpful.
+If you want to learn more about CSS frameworks, then you should learn bootstrap, a responsive-design CSS framework. It's documentation can be found on the website you just emulated. However, you may find a tutorial more helpful. This time, rebuild your clone using boostrap.
 
 [Bootstrap tutorial](https://www.youtube.com/watch?v=YXVoqJEwqoQ)

@@ -2,7 +2,7 @@
 
 Today you're going to be building a copy of the Google home page, one of the mostly visited pages in the world. Google itself is a successful company popular for it's highly efficient searched engine built with a meticulous algorithm.
 
-You are going to build this google page in 2 days (recommended)
+You are going to build this Google page in 2 days (recommended)
 
 This will test:
 
@@ -16,7 +16,7 @@ Create the exact replica of the Google Home Page so that if we cannot tell the d
 
 ##Do's and Don'ts
 
-We have an "index.html" file and a "style.css" file, which you will be working on. Do all your HTML works in "index.html" and all your stylings (CSS works) in "style.css". DO NOT add any more files or use any javascript codes for this challenge. Good Luck!
+We have an "index.html" file and a "style.css" file, which you will be working on. Do all your HTML works in "index.html" and all your styling (CSS works) in "style.css". DO NOT add any more files or use any JavaScript codes for this challenge. Good Luck!
 
 #### Read
 - <http://www.w3schools.com/html/>

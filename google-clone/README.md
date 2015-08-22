@@ -1,6 +1,6 @@
-#Google Page Challenge!
+#Google Clone Challenge!
 
-Today you're going to be building a copy of the Google home page, one of the mostly visited pages in the world. Google itself is a successful company popular for it's highly efficient searched engine built with a meticulous algorithm.
+Today you're going to be building a clone of the Google home page, one of the mostly visited pages in the world. Google itself is a successful company popular for it's highly efficient searched engine built with a meticulous algorithm.
 
 You are going to build this Google page in 2 days (recommended)
 

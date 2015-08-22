@@ -14,4 +14,4 @@ We divided part 2 of the precourse challenges into three sections: [Google Clone
 
 ## What do I do when I am done?
 
-Please refer to the **"What do I do when I am done with a unit?"** section in [Github.md](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md/#what-do-i-do-when-i-am-done-with-a-unit).
+Please refer to the **"What do I do when I am done with a unit?"** section in [Github.md](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md/#what-do-i-do-when-i-am-done-with-a-unit) from precourse-part-1 if you need a refresher on how to fork and clone your repo.

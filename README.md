@@ -14,4 +14,4 @@ We divided part 2 of the precourse challenges into three sections: [Google Clone
 
 ## What do I do when I am done?
 
-Please read the portion labeled **"What do I do when I am done with a unit?"** in the following link: [pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).
+Please read the portion labeled **"What do I do when I am done with a unit?"** in the following link: [pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md/#what-do-i-do-when-i-am-done-with-a-unit?).

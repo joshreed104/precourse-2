@@ -10,7 +10,11 @@ Please refer to the **"How do I get started"** section in [Github.md](https://gi
 
 ## Instructions For The Precourse Challenges:
 
-We divided part 2 of the precourse challenges into three sections: [Google Clone](./google-clone), [Fundamentals](./fundamentals), and [Bootstrap Clone](./bootstrap-clone) clone. There are three separate folders for each of the challenges. During the Google Clone challenge, you will be creating a copy of the "Google" home page using only HTML and CSS. In the Fundamentals challenge, you will be working on solidifying your JavaScript skills even further. For the Bootstrap Clone challenge, you will be creating a professional layout using only HTML and CSS. Please read the "README.md" files inside the folders for further instructions about each challenge. Be creative with your project and show us that you want to have fun with programming. Good Luck!
+We divided part 2 of the precourse challenges into three sections: [Google Clone](./google-clone), [Fundamentals](./fundamentals), and [Bootstrap Clone](./bootstrap-clone) clone. There are three separate folders for each of the challenges. 
+
+During the Google Clone challenge, you will be creating a copy of the "Google" home page using only HTML and CSS. In the Fundamentals challenge, you will be working on solidifying your JavaScript skills even further. 
+
+For the Bootstrap Clone challenge, you will be creating a professional layout using only HTML and CSS. Please read the "README.md" files inside the folders for further instructions about each challenge. Be creative with your project and show us that you want to have fun with programming. Good Luck!
 
 ## What do I do when I am done?
 

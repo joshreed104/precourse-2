@@ -1,8 +1,8 @@
 #Bootstrap Page Challenge!
 
-It's time to build a more complex layout! You'll be building [this website](http://getbootstrap.com/). Again, you should not inspect the page with the developer tools. Do not use any CSS frameworks either, just plain HTML and CSS. If you need to review these languages, this [tutorial](https://www.codecademy.com/tracks/web) will be helpful.
+It's time to build a more complex layout! You'll be building [this website](http://getbootstrap.com/). Again, you should not inspect the page with the developer tools. Do not use any CSS frameworks either, just plain HTML and CSS. If you need to review these languages, [this](https://www.codecademy.com/catalog/language/html-css) tutorial will be helpful.
 
-Your understanding of CSS positioning will be tested in doing this, check out [this great guide](http://www.barelyfitz.com/screencast/html-training/css/positioning/) for an awesome guide on CSS Positioning. 
+Your understanding of CSS positioning will be tested in doing this, check out [this great guide](http://www.barelyfitz.com/screencast/html-training/css/positioning/) for an awesome guide on CSS Positioning.
 
 Build this layout and get everything displayed in the right position first before you start adding extensive styling.
 

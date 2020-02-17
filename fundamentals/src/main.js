@@ -1,6 +1,6 @@
 // Creates a clone of an object.
-// var users = [{ 'user': 'barney' },{ 'user': 'fred' }];
-// var shallowClone = clone(users);
+// const users = [{ 'user': 'barney' },{ 'user': 'fred' }];
+// const shallowClone = clone(users);
 // shallowClone[0] === users[0] → true
 function clone(value) {
 	// CODE HERE
@@ -75,13 +75,13 @@ function extend(destination) {
 // Using a for loop, call the functions in the queue in order with the input
 // number, where the results of each function become the next function’s input.
 // Additionally, the queue should be empty after the function is called.
-/* var puzzlers = [
+/* const puzzlers = [
   function(a) { return 8 * a - 10; },
   function(a) { return (a - 3) * (a - 3) * (a - 3); },
   function(a) { return a * a + 4;},
   function(a) { return a % 5;}
 ];
-var start = 2;
+const start = 2;
 applyAndEmpty(2, puzzlers); → 3
 */
 function applyAndEmpty(input, queue) {

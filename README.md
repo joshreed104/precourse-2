@@ -10,7 +10,7 @@ Please refer to the **"How do I get started"** section in [Github.md](https://gi
 
 ## Style guide
 
-Just like last time, we want you to continue to practice writing clean, readable, consistently styled code. This will make your code more attractive to hirers and it will make other developers more tempted to collaborate with you. Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. As you work the curriculum, try following the Airbnb styleguide as much as you can. The more you follow it, the more professional your code will look and the easier it will be to show off to potential hirers after Codesmith! You may also install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines.
+Just like last time, we want you to continue to practice writing clean, readable, consistently styled code. This will make your code more attractive to hirers and it will make other developers more tempted to collaborate with you. Here at Codesmith we follow a custom styleguide based on [eslint recommended](https://eslint.org/docs/rules/). As before, simply navigate to the directory from the terminal (in this case 'precourse-part-2') and run `npm install` to locally install the specific linting configuration - this way you'll get automatic linting in any JavaScript files.
 
 ## Instructions For The Precourse Challenges:
 

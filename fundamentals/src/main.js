@@ -3,7 +3,7 @@
 // const shallowClone = clone(users);
 // shallowClone[0] === users[0] → true
 function clone(value) {
-	// CODE HERE
+  // CODE HERE
 
 }
 
@@ -14,7 +14,7 @@ function clone(value) {
 // size([1,2,3]); → 3
 // size({a: 1, b: 2}); → 2
 function size(collection) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -24,7 +24,7 @@ function size(collection) {
 // first([1,2,3]); → 1
 // first([]); → undefined
 function first(array) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -36,7 +36,7 @@ function first(array) {
 // drop([1, 2, 3], 5); → []
 // drop([1, 2, 3], 0); → [1, 2, 3]
 function drop(array, n) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -48,7 +48,7 @@ function drop(array, n) {
 // take([1, 2, 3], 5); → [1, 2, 3]
 // take([1, 2, 3], 0); → []
 function take(array, n) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -56,7 +56,7 @@ function take(array, n) {
 // Gets the value of key from all elements in collection.
 // pluck([{user: 'Bob', age: 20},{user: 'Sam', age: 25}], 'user'); → ['Bob','Sam']
 function pluck(array, key) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -67,7 +67,7 @@ function pluck(array, key) {
 // should return ->  { 'user': 'fred', 'age': 40 }
 // BONUS: solve with reduce
 function extend(destination) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -85,7 +85,7 @@ const start = 2;
 applyAndEmpty(2, puzzlers); → 3
 */
 function applyAndEmpty(input, queue) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -93,7 +93,7 @@ function applyAndEmpty(input, queue) {
 // Returns a function that when called, will check if it has already computed
 // the result for the given argument and return that value instead if possible.
 function memoize(func) {
-	// CODE HERE
+  // CODE HERE
 	
 }
 
@@ -101,6 +101,6 @@ function memoize(func) {
 // Invokes func after wait milliseconds. Any additional arguments are provided
 // to func when it is invoked.
 function delay(func, wait) {
-	// CODE HERE
+  // CODE HERE
 	
 }

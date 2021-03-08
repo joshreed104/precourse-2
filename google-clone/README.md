@@ -20,3 +20,6 @@ We have an "index.html" file and a "style.css" file, which you will be working o
 
 #### Read
 - <http://www.w3schools.com/js/js_htmldom.asp>
+- https://developer.mozilla.org/en-US/docs/Web/CSS
+- For further information on positioning with CSS, check out [this great guide](http://www.barelyfitz.com/screencast/html-training/css/positioning/).
+ 

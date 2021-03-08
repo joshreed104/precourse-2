@@ -2,7 +2,7 @@
 
 It's time to build a more complex layout! You'll be building [this website](http://getbootstrap.com/). Again, you should not inspect the page with the developer tools. Do not use any CSS frameworks either, just plain HTML and CSS. If you need to review these languages, [this](https://www.codecademy.com/catalog/language/html-css) tutorial will be helpful.
 
-Your understanding of CSS positioning will be tested in doing this, check out [this great guide](http://www.barelyfitz.com/screencast/html-training/css/positioning/) for an awesome guide on CSS Positioning.
+Your understanding of CSS positioning will be tested in doing this. In addition to the [positioning values](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning), we introduced in the previous section, CSS gives us some useful tools for creating more complicated layouts: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) and [Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids). We highly encourage learning more about these layout systems and experimenting with them here!
 
 Build this layout and get everything displayed in the right position first before you start adding extensive styling.
 

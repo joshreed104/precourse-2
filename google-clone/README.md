@@ -19,7 +19,7 @@ Create the exact replica of the Google Home Page so that if we cannot tell the d
 We have an "index.html" file and a "style.css" file, which you will be working on. Do all your HTML works in "index.html" and all your styling (CSS works) in "style.css". DO NOT add any more files or use any JavaScript codes for this challenge. Good Luck!
 
 #### Read
-- <http://www.w3schools.com/js/js_htmldom.asp>
+- https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://developer.mozilla.org/en-US/docs/Web/CSS
 - For further information on positioning with CSS, check out [this great guide](http://www.barelyfitz.com/screencast/html-training/css/positioning/).
  

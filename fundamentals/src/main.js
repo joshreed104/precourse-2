@@ -3,7 +3,11 @@
 // const shallowClone = clone(users);
 // shallowClone[0] === users[0] → true
 function clone(value) {
-  // CODE HERE
+  const cloneObj = {};
+  for (let key in value) {
+    cloneObj[key] = value[key];
+  };
+  return cloneObj;
 
 }
 
@@ -14,7 +18,8 @@ function clone(value) {
 // size([1,2,3]); → 3
 // size({a: 1, b: 2}); → 2
 function size(collection) {
-  // CODE HERE
+  if (Array.isArray(collection)) return collection.length;
+  else return Object.keys(collection).length;
 	
 }
 
@@ -24,7 +29,7 @@ function size(collection) {
 // first([1,2,3]); → 1
 // first([]); → undefined
 function first(array) {
-  // CODE HERE
+  if (array.length != 0) return array[0];
 	
 }
 
@@ -35,8 +40,8 @@ function first(array) {
 // drop([1, 2, 3], 2); → [3]
 // drop([1, 2, 3], 5); → []
 // drop([1, 2, 3], 0); → [1, 2, 3]
-function drop(array, n) {
-  // CODE HERE
+function drop(array, n=1) {
+  return array.slice(n);
 	
 }
 
@@ -47,8 +52,8 @@ function drop(array, n) {
 // take([1, 2, 3], 2); → [1, 2]
 // take([1, 2, 3], 5); → [1, 2, 3]
 // take([1, 2, 3], 0); → []
-function take(array, n) {
-  // CODE HERE
+function take(array, n=1) {
+  return array.slice(0, n);
 	
 }
 
@@ -56,19 +61,29 @@ function take(array, n) {
 // Gets the value of key from all elements in collection.
 // pluck([{user: 'Bob', age: 20},{user: 'Sam', age: 25}], 'user'); → ['Bob','Sam']
 function pluck(array, key) {
-  // CODE HERE
+  return array.map(el => el[key]);
 	
 }
 
 
 // Assigns own enumerable properties of source object(s) to the destination
 // object. Subsequent sources overwrite property assignments of previous sources.
-// extend({ 'user': 'barney' }, { 'age': 40 }, { 'user': 'fred' });
+// console.log(extend({ 'user': 'barney' }, { 'age': 40 }, { 'user': 'fred' }));
 // should return ->  { 'user': 'fred', 'age': 40 }
 // BONUS: solve with reduce
+
+// NOT WORKING
 function extend(destination) {
-  // CODE HERE
-	
+
+  const resultObj = {};
+
+  for (let obj of arguments) {
+    const key = Object.keys(obj)[0];
+    resultObj[key] = obj[key];
+  };
+
+  return resultObj;
+
 }
 
 
@@ -85,17 +100,27 @@ const start = 2;
 applyAndEmpty(2, puzzlers); → 3
 */
 function applyAndEmpty(input, queue) {
-  // CODE HERE
-	
+  const result = queue.reduce( (a,b) => b(a), input);
+  for (let i = queue.length; queue.length > 0; i--) {
+    queue.pop()
+  };
+	return result;
 }
 
 
 // Returns a function that when called, will check if it has already computed
 // the result for the given argument and return that value instead if possible.
 function memoize(func) {
-  // CODE HERE
+  const memoObj = {};
+  return function (val) {
+    if (memoObj[val]) return memoObj[val];
+    else {
+      memoObj[val] = func(val);
+      return memoObj[val];
+    };
+  };
 	
-}
+};
 
 
 // Invokes func after wait milliseconds. Any additional arguments are provided

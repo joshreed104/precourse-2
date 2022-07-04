@@ -68,21 +68,20 @@ function pluck(array, key) {
 
 // Assigns own enumerable properties of source object(s) to the destination
 // object. Subsequent sources overwrite property assignments of previous sources.
-// console.log(extend({ 'user': 'barney' }, { 'age': 40 }, { 'user': 'fred' }));
+console.log(extend({ 'user': 'barney' }, { 'age': 40 }, { 'user': 'fred' }));
 // should return ->  { 'user': 'fred', 'age': 40 }
 // BONUS: solve with reduce
 
 // NOT WORKING
 function extend(destination) {
 
-  const resultObj = {};
-
-  for (let obj of arguments) {
-    const key = Object.keys(obj)[0];
-    resultObj[key] = obj[key];
+  for (let i = 1; i < arguments.length; i++) {
+    for (let key in arguments[i]) {
+      destination[key] = arguments[i][key];
+    }
   };
 
-  return resultObj;
+  return destination;
 
 }
 
@@ -126,6 +125,8 @@ function memoize(func) {
 // Invokes func after wait milliseconds. Any additional arguments are provided
 // to func when it is invoked.
 function delay(func, wait) {
-  // CODE HERE
-	
-}
+  let args = [...arguments];
+  setTimeout(function () {
+    func(...args.slice(2))
+  }, wait);
+};
